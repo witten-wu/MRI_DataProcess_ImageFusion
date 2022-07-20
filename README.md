@@ -1,5 +1,3 @@
-# MRI_DataProcess_ImageFusion
-
 ### MRI Data Process(OpenCV) - Liver Segmentation
 
 
