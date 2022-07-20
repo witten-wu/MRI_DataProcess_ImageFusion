@@ -1,6 +1,6 @@
 # MRI_DataProcess_ImageFusion
 
-### MRI Data Process(OpenCV)
+### MRI Data Process(OpenCV) - Liver Segmentation
 
 
 #### Background Dicom File 
